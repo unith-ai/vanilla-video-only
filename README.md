@@ -2,4 +2,4 @@
 
 This code base shows a working example of unith's video only mode using vaniila js 
 
-view live example here: [text](https://unith-iframe.vercel.app/) 
+view live example [here](https://unith-iframe.vercel.app/) 

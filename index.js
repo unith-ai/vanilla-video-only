@@ -1,5 +1,5 @@
 const UnithMessenger = (() => {
-  const UNITH_ORIGIN = "https://chat-dev.unith.ai";
+  const UNITH_ORIGIN = "https://chat.unith.ai";
 
   // State management
   let isReady = false;
